@@ -1,0 +1,41 @@
+Total Deals: 5841
+Average Deal Size: 2551.62
+Average Probability of Closing: 69.59
+
+Deals by Sales Stage:
+Sales stage
+Identified    355
+Validated     226
+Qualified     188
+Proposal      145
+Won            53
+Lost           33
+
+Average Deal Size by Stage:
+Sales stage
+Identified    2438.422535
+Lost          2492.727273
+Proposal      2597.034483
+Qualified     2622.180851
+Validated     2642.522124
+Won           2584.339623
+
+Total Deal Value by Sales Channel:
+Sales Channel
+F2F          1297940.0
+Partners      700790.0
+Telesales     536760.0
+Website        16130.0
+
+Total Deal Value by Country:
+Country
+Australia    306370.0
+Canada       272900.0
+China        278850.0
+France       247900.0
+Germany      201780.0
+India        260160.0
+Indonesia    262850.0
+Malaysia     249650.0
+UK           217220.0
+US           253940.0
